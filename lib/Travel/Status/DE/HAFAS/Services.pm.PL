@@ -179,7 +179,6 @@ my %hafas_instance = (
 		load_instance(
 			'at/oebb',
 			lang => 'deu',
-			ver  => '1.57'
 		),
 		stopfinder => 'https://fahrplan.oebb.at/bin/ajax-getstop.exe',
 	},
